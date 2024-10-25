@@ -20,6 +20,7 @@ Algoritmo Cuenta
 	resultado = num+num2+num3
 	
 	Imprimir "Su resultado es ", resultado
+Imprimir "Otra cosa"
 	
 
 
